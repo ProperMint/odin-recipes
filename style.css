@@ -1,2 +1,13 @@
 /* styles.css */
 
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+button {
+    background: rgb(201, 255, 201);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
